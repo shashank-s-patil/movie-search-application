@@ -1,0 +1,10 @@
+.navbar {
+    margin-bottom: 20px;
+    background-color: rgb(3, 188, 188);
+}
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+  

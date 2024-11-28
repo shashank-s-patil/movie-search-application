@@ -1,0 +1,10 @@
+.movie-list-div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+  
+.movie-list-div .movie-list {
+    padding: 10px;
+}
+  
