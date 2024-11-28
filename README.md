@@ -1,5 +1,5 @@
-#movie-search-application (Made by using React JS)
-Deployed Vercel link - https://vercel.com/shashank-s-patils-projects/movie-search-application/oSExir2AhjanDWiwoqvs9gAMvNBP 
+# movie-search-application (Made by using React JS)
+# Deployed Vercel link - https://vercel.com/shashank-s-patils-projects/movie-search-application/oSExir2AhjanDWiwoqvs9gAMvNBP 
 
 Steps to Run Locally :-
 
