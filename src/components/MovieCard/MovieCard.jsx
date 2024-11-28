@@ -1,5 +1,6 @@
 import './MovieCard.css';
 import React from "react";
+import { Link } from 'react-router-dom';
 
 
 export const MovieCard = ({ movie }) => {
@@ -11,7 +12,7 @@ export const MovieCard = ({ movie }) => {
       <div className="card-body">
         <h5 className="card-title">{movie.title}</h5>
         <p className="card-text">{movie.overview.slice(0, 100)}...</p>
-        <link to={`/movie/${movie.id}`} className="btn btn-primary">View Details</link>
+        <Link to={`/movie/${movie.id}`} className="btn btn-primary">View Details</Link>
       </div>
     </div>
   );
