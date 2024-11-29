@@ -8,7 +8,7 @@ export const MovieList = ({ movies }) => {
   return (
     <div className="movie-list-div row">
       {movies.map((movie) => (
-        <div className="movie-list col-md-4" key={movie.id}>
+        <div className="movie-list col-md-3" key={movie.id}>
           <MovieCard movie={movie} />
         </div>
       ))}
